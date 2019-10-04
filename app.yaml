@@ -1,5 +1,5 @@
 runtime: php5.5
-api_vesion: 1
+api_version: 1
 
 handlers:
 - url: /.*
